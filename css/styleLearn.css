@@ -1,3 +1,11 @@
+.introduction{
+    font-size: 20px;
+    padding: 2%;
+    margin-top: 2%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
 .enemies-table {
     width: 100%;
     border-collapse: collapse;
@@ -44,8 +52,9 @@
 }
 
 .enemy-cell img {
-    width: 80px;
-    height: auto;
+    max-width: 80px;
+    max-height: 80px;
+
 }
 
 .enemy-cell h3 {
