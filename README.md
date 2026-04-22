@@ -5,11 +5,9 @@ liens utiles:
 
 <h1>Projet Programmation Web</h1>
 <div>
-    <a href="...">
-        <img src="https://img.shields.io/badge/..." alt="...">
-    </a>
-   
-    [![nom affiché](lien du badge)](lien)
+    ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)(https://html5.org)
+	![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge)(https://www.w3.org/Style/CSS/Overview.en.html)
+	![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)(https://fr.wikipedia.org/wiki/JavaScript)
 </div>
 
 <br><br><br><br><br>
