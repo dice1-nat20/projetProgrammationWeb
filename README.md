@@ -40,11 +40,16 @@
     │   └── Test.html    <br>
     │   <br>
     ├── 📁 css/    <br>
+	│   └── styleDefault.css    <br>
     │   └── styleAccueil.css    <br>
-    │   └── styleDefault.css    <br>
+	│   └── styleContact.css    <br>
+	│   └── styleEnlist.css    <br>
+	│   └── styleLearn.css    <br>
+	│   └── styleTest.css    <br>
     │   <br>
     ├── 📁 img/    <br>
     │   └── beaucoup d'images ...  <br>
+	│   <br>
     └── 📜 README.md    <br>
 </p>
 
