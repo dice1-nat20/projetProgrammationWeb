@@ -1,0 +1,68 @@
+.introduction{
+    font-size: 20px;
+    padding: 2%;
+    margin-top: 2%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.enemies-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+}
+
+.enemies-table th {
+    background-color: #FFDE17;
+    color: black;
+    padding: 15px;
+    font-size: 24px;
+    border: 2px solid black;
+}
+
+.enemies-table td {
+    padding: 15px;
+    border: 1px solid #444;
+    vertical-align: top;
+}
+
+.enemies-table h3 {
+    color: #FFDE17;
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+
+.enemies-table .description {
+    font-size: 0.9rem;
+    line-height: 1.2;
+    opacity: 0.9;
+}
+
+.enemies-table tr:nth-child(even) {
+    background-color: rgba(255, 222, 23, 0.05);
+}
+
+.enemy-cell {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.enemy-cell img {
+    max-width: 80px;
+    max-height: 80px;
+
+}
+
+.enemy-cell h3 {
+    margin: 0;
+    font-size: 16px;
+}
+
+.enemy-cell .description {
+    margin: 0;
+    font-size: 13px;
+}
