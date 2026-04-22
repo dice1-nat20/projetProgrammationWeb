@@ -1,11 +1,17 @@
-<h1>Projet Programmation Web</h1>
-<div>
-    ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)(https://html5.org)
-	![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge)(https://www.w3.org/Style/CSS/Overview.en.html)
-	![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)(https://fr.wikipedia.org/wiki/JavaScript)
+<h1 align="center">Projet Programmation Web</h1>
+<div align="center">
+	<a href="https://en.wikipedia.org/wiki/HTML5">
+        <img src="https://img.shields.io/badge/HTML5-black?logo=html5&logoColor=%23E34F26" alt="html5">
+    </a>
+	<a href="https://en.wikipedia.org/wiki/CSS">
+        <img src="https://img.shields.io/badge/CSS-black?logo=css&logoColor=%23663399" alt="css">
+    </a>
+	<a href="(https://en.wikipedia.org/wiki/JavaScript)">
+        <img src="https://img.shields.io/badge/JS-black?logo=javascript&logoColor=%23F7DF1E" alt="js">
+    </a>
 </div>
 
-<br><br><br><br><br>
+<br><br><br><br>
 
 <h2>Rappels importants</h2>
 <p>
