@@ -1,8 +1,3 @@
-liens utiles:
-- https://github.com/inttter/md-badges pour les badges des liens
-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#objects 	pour les emojis
-
-
 <h1>Projet Programmation Web</h1>
 <div>
     ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)(https://html5.org)
