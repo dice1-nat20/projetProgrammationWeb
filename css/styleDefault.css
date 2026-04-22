@@ -65,6 +65,14 @@ body {
     background-color: #FFDE17;
 }
 
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    text-decoration: underline;
+}
+
 .content-nav {
     height: 15%;
     background-color: black;
