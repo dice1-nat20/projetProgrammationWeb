@@ -56,7 +56,10 @@
 	│   └── styleTest.css    <br>
     │   <br>
     ├── 📁 img/    <br>
-    │   └── beaucoup d'images ...  <br>
+    │   └── vraiment beaucoup d'images ...  <br>
+	│   <br>
+	├── 📁 js/    <br>
+    │   └── Enlist.js <br>
 	│   <br>
     └── 📜 README.md    <br>
 </p>
