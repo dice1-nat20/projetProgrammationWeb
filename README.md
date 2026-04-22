@@ -15,21 +15,23 @@
 
 <h2>Rappels importants</h2>
 <p>
-    [Résumé des attentes du projet]...
+    Ce projet de programmation web a pour objectif de nous faire utiliser les différents éléments de bases
+	des langages HTML, CSS et JavaScript, appris en CM (CTD pour nous à Bordeaux) et en TP. Il fallait, au-
+	delà de créer un site, y ajouter de nombreux éléments de HTML, CSS et Javascript.
 </p>
 <p>
-    [indiquer si des bibliothèques, ou autres, ont été utilisées]...
+    Nous avons donc utiliser les trois langages cités (HTML, CSS et JS), et notre IDE était WebStorm.
 </p>
 
 <br>
 
 <h2>Sommaire</h2>
 <ol>
-    <li><a href="#3"> Langage et Bibliothèques </a></li>
+    <li><a href="#3"> Arborescence du projet </a></li>
     <li><a href="#1"> Fonctionnalités attendues </a></li>
-    <li><a href="#2"> Thème choisi </a></li> 
-    <li><a href="#4"> WireFrame </a></li>
-    <li><a href="#5"> ... </a></li>
+    <li><a href="#2"> Thème / Sujet </a></li> 
+	<li><a href="#4"> Répartitions des tâches </a></li>
+	<li><a href="#5"> Remerciements </a></li>
 </ol>
 
 <br><br>
@@ -61,35 +63,18 @@
 
 <br><br>
 
-<h2 id="1">Langage et Bibliothèques</h2>
-<h3>Langage</h3>
+<h2 id="1">Fonctionnalités attendues</h2>
 <p>
     Nous avons choisi d'utiliser [parler des langages utilisés et pourquoi]...
 </p>
 
-<br>
-
-<h3>Bibliothèques</h3>
-<p>
-    [parler des biblio utilisées et pourquoi]...
-</p>
-
 <br><br>
 
-<h2 id="2">Fonctionnalités attendues</h2>
+<h2 id="2">Thème / Sujet</h2>
 <p>
     [rappel de ce qui était attendu]...
 
 </p>
-
-<h3>[nom d'une des fonctions, fonctionnalités, etc...]...</h3>
-<p>
-    [descriptions de la fonction, fonctionnélitée, etc...]
-</p>
-
-<br>
-
-[faire comme ça pour chaque fonctions, fonctionnalités, etc...]...
 
 <br><br>
 
