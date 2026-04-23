@@ -42,7 +42,7 @@
     .    <br>
     ├── 📁 html/    <br>
     │   └── Accueil.html    <br>
-    │   └── Contacts.html    <br>
+    │   └── About.html    <br>
     │   └── Enlist.html    <br>
     │   └── Information.html    <br>
     │   └── Test.html    <br>
@@ -50,7 +50,7 @@
     ├── 📁 css/    <br>
 	│   └── styleDefault.css    <br>
     │   └── styleAccueil.css    <br>
-	│   └── styleContact.css    <br>
+	│   └── styleAbout.css    <br>
 	│   └── styleEnlist.css    <br>
 	│   └── styleLearn.css    <br>
 	│   └── styleTest.css    <br>
