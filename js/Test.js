@@ -36,12 +36,15 @@ function answer(reponse) {
 }
 
 function showResults() {
-    document.querySelector(".test").style.display = "none";
+    document.querySelectorAll(".test").forEach(el => el.style.display = "none");
+
+    const info = document.getElementById("info");
+    if (info) info.style.display = "none";
 
     if (isTraitor) {
-        document.querySelector(".traitor").style.display = "block";
+        document.querySelectorAll(".traitor").forEach(el => el.style.display = "block");
     } else {
-        document.querySelector(".notTraitor").style.display = "block";
+        document.querySelectorAll(".notTraitor").forEach(el => el.style.display = "block");
     }
 }
 
