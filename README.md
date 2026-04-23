@@ -70,8 +70,12 @@
 
 <h2 id="1">Fonctionnalités attendues</h2>
 <p>
-    Les fonctionnalités attendues sont similaires à celles que nous avons dû implémenter lors des 4 TP. Sans en faire une liste, il y avait entre-autres : un tableau, des boutons cliquables 
-	qui envoies vers une autre page, un formulaire etc...
+    Les fonctionnalités attendues sont similaires à celles que nous avons dû implémenter lors des 4 TP. Nous avons choisi d'implémenter : <br>
+	<li> un tableau </li>
+	<li> des liens cliquables </li>
+	<li> différentes pages accessibles via des boutons </li>
+	<li> un formulaire </li>
+	<li> des nombreuses balises HTML vue en TP. </li>
 </p>
 
 <br><br>
