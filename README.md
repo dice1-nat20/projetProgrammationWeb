@@ -75,7 +75,11 @@
 
 <h2 id="2">Thème / Sujet</h2>
 <p>
-    [rappel de ce qui était attendu]...
+    Le thème de ce projet étant libre, du moment que nous implémentons bien les fonctionnalités attendues, nous avons choisi de faire un site sur le thème du jeu vidéo Helldivers 2. Ce jeu 
+	vidéo sortie en 2024 est une satire politique des régimes autoritaires, où l'on incarne les soldats supposéments d'élites de la "Superterre" (les Helldivers). Tous le marketing et la 
+	communication autour du jeu (même officielle) se fait sous la forme de fausses vidéos de propagandes de la Superterre. La communauté de joueur a directement jouer le jeu, et énormément
+	de joueur s'amuse de ce jeu de rôle où l'on incarne des fanatique de ce faux régime. C'est ce concept que nous avons reproduit avec notre site. Nos propos sont donc de la satire et de 
+	l'humour, et à aucun moment ne sont à prendre au premier degré. Tout cela est déjà abordé dans la page "Contact" du site.
 
 </p>
 
@@ -84,8 +88,8 @@
 <h2 id="4">Répartitions des tâches</h2>
 <p>
     <ul>
-        <li> … </li>
-	...
+        <li> Ulysse -> Enlist (html, css et js), Informations (html et css) et styleDefault.css </li>
+		<li> Sacha -> Sorcier de Git, Contact (html et css), Accueil (html et css) </li>
     </ul>
 
 
@@ -93,5 +97,5 @@
 
 <h2 id="5">Remerciements</h2>
 <p>
-    [si nécessaire faire des remerciements, ici tu fais des trucs drôle si tu peux]...
+    ...
 </p>
