@@ -70,7 +70,8 @@
 
 <h2 id="1">Fonctionnalités attendues</h2>
 <p>
-    Nous avons choisi d'utiliser [parler des langages utilisés et pourquoi]...
+    Les fonctionnalités attendues sont similaires à celles que nous avons dû implémenter lors des 4 TP. Sans en faire une liste, il y avait entre-autres : un tableau, des boutons cliquables 
+	qui envoies vers une autre page, un formulaire etc...
 </p>
 
 <br><br>
