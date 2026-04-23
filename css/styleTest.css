@@ -1,0 +1,72 @@
+.test{
+    /*display = none*/
+    display: block;
+    margin: 5% 5%;
+    text-align: center;
+}
+h1{
+    font-size: 80px;
+    font-weight: bold;
+}
+h2{
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 5%;
+    margin-bottom: 10px;
+}
+#answer{
+    margin: 5% 0;
+    display: flex;
+    justify-content: space-between;
+}
+#info{
+    margin: 0 5%;
+}
+
+#changingHTML{
+    display: flex;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: bold;
+    font-size: 25px;
+    min-height: 10%;
+    background-color: black;
+    border-radius: 25px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#numQuest{
+    margin: 10px 5%;
+}
+
+#imgYes, #imgNo{
+    height: auto;
+    width: 40%;
+}
+
+.results{
+    display: none;
+    margin: 5% 15%;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 50px;
+    color: white;
+    border-radius: 25px;
+}
+.notTraitor{
+    display: none;
+    background-color: green;
+}
+.traitor{
+    display: none;
+    background-color: red;
+}
+.share{
+    margin: 5% 0;
+    font-size: 28px;
+    font-weight: normal;
+
+}
