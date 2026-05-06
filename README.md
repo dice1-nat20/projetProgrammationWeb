@@ -95,8 +95,8 @@
 <h2 id="4">Répartitions des tâches</h2>
 <p>
     <ul>
-        <li> Ulysse -> Enlist (html, css et js), Informations (html et css) et styleDefault.css </li>
-		<li> Sacha -> Sorcier de Git, Contact (html et css), Accueil (html et css) </li>
+        <li> Ulysse -> Enlist (html, css et js), Informations (html et css) et styleDefault.css  + vérifications avec W3C. </li>
+		<li> Sacha -> Sorcier de Git, Contact (html et css), Accueil (html et css) + vérifications avec W3C. </li>
     </ul>
 
 
@@ -104,5 +104,11 @@
 
 <h2 id="5">Remerciements</h2>
 <p>
-    ...
+    Merci à notre professeur, Monsieur John Dreyfus.		<br>
+	Merci à nos parents, qui nous ont fait et paient l'école.		<br>
+	Merci à Alan Turing, sans ce GOAT on aurait pas de pc aujourd'hui.		<br>
+	Merci au Bell Lab pour avoir inventé les transistors.		<br>
+	Merci ArrowHead Game Studios d'avoir fait Helldivers et Helldivers 2.		<br>
+	Merci à Gabe Newell d'avoir créer Steam (vraiment le GOAT lui).		<br>
+	Enfin et surtout, merci à vous d'avoir pris le temps de lire jusqu'ici.		<br>
 </p>
