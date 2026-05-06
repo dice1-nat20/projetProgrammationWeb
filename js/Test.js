@@ -22,7 +22,7 @@ function initQuestion() {
         return;
     }
 
-    document.getElementById("numQuest").innerText = numbQuestion + "/"+ totalQuestions;
+    document.getElementById("numQuest").innerText = numbQuestion + "/" + totalQuestions;
     document.getElementById("question").innerText = allQuestions[numbQuestion];
 }
 

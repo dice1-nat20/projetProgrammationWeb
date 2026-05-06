@@ -1,4 +1,4 @@
-fieldset{
+fieldset {
     border: 5px solid black;
     border-radius: 25px;
     font-size: 28px;
@@ -9,16 +9,17 @@ fieldset{
 
 }
 
-legend{
+legend {
     font-size: 40px;
     font-weight: bold;
 }
-label{
+
+label {
     font-weight: 501;
     margin-left: 10%
 }
 
-input{
+input {
     margin-left: 15%;
     min-width: 50%;
     margin-bottom: 10px;
@@ -31,16 +32,17 @@ input{
     padding: 5px;
 }
 
-input:focus{
+input:focus {
     background-color: #000000;
     color: white;
 }
-input:hover{
+
+input:hover {
     transform: scale(1.05);
 
 }
 
-#enlistButton{
+#enlistButton {
     margin-top: 20px;
     margin-bottom: 20px;
     padding: 10px;
